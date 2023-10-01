@@ -1,6 +1,5 @@
 OpenTrade - Your Gateway to the NFT Universe
-Welcome to OpenTrade, your one-stop destination for exploring the exciting world of NFTs (Non-Fungible Tokens) and crypto collectibles. 
-With OpenTrade, you can seamlessly buy, sell, and auction NFTs, all in one innovative web3 marketplace.
+Welcome to OpenTrade, your one-stop destination for exploring the exciting world of NFTs (Non-Fungible Tokens) and crypto collectibles. With OpenTrade, you can seamlessly buy, sell, and auction NFTs, all in one innovative web3 marketplace.
 
 
 
