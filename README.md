@@ -9,9 +9,9 @@ Buy and Sell: Effortlessly browse, purchase, and list your NFTs for sale, making
 Auction Platform: Dive into thrilling NFT auctions, where you can bid on unique digital assets and unlock exclusive treasures.
 
 
-
 Technologies We Use
-React: A powerful JavaScript library for building dynamic and responsive user interfaces.
+React A powerful JavaScript library for building dynamic and responsive user interfaces.
+
 Tailwind CSS: A utility-first CSS framework that allows us to create stunning designs with ease.
 Solidity: The language of choice for creating smart contracts on the Ethereum blockchain.
 Web3.js: A JavaScript library that connects your application with the Ethereum blockchain, enabling seamless interactions with NFTs and crypto assets.
